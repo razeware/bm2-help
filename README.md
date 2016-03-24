@@ -1,1 +1,1 @@
-# bm2-help
+Online help for Battle Map 2
